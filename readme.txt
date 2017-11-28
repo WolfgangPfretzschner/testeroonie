@@ -1,1 +1,1 @@
-This is me learning Git on Lynda.
+This is me learning Git.
